@@ -4,18 +4,16 @@
   <tr>
     <td>
 <pre>
-- My contributions to open source 
-have been steadily increasing, 
-with an active presence in 
+- My contributions to open source have been 
+steadily increasing, with an active presence in 
 <b>pull requests, issues, and commits.</b> 
 </pre>
     </td>
      <td>
 <pre>
-- Each contribution reflects 
-my dedication to improving and 
-refining the projects I engage with, 
-both through code and collaboration
+- Each contribution reflects my dedication to improving 
+and refining the projects I engage with, both through 
+code and collaboration
 </pre>
     </td>
   </tr>
@@ -29,19 +27,16 @@ both through code and collaboration
   <tr>
     <td>
   <pre>
-- As a <b>Front-end Developer</b>, 
-I work primarily with <b>JavaScript</b>, 
-where I’ve spent most of my time 
-developing using 
-<b>React.js, Next.js, Shadcn UI, 
+- As a <b>Front-end Developer</b>, I work primarily 
+with <b>JavaScript</b>, where I’ve spent most of 
+my time developing using <b>React.js, Next.js, Shadcn UI, 
 Material UI, Stencil.js, Storybook and more</b>. 
 </pre>
     </td> 
     <td>
   <pre>
-- My experience is deeply rooted 
-in building interactive user interfaces 
-and components for web applications. 
+- My experience is deeply rooted in building interactive 
+user interfaces and components for web applications. 
 </pre>
     </td> 
   </tr>
@@ -51,17 +46,14 @@ and components for web applications.
   <pre>
 - I’ve also worked with 
 <b>HTML, CSS, Tailwind CSS and TypeScript,</b>
-enhancing my ability to 
-craft efficient and visually appealing 
-web solutions. 
+enhancing my ability to craft efficient and 
+visually appealing web solutions. 
 </pre>
     </td> 
     <td>
 <pre>
-- While <b>Python</b> has appeared 
-in some of my projects, 
-my expertise remains focused on 
-front-end technologies.
+- While <b>Python</b> has appeared in some of my projects, 
+my expertise remains focused on front-end technologies.
 </pre>
     </td> 
   </tr>
