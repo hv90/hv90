@@ -2,26 +2,30 @@
 <table>
   <tr></tr>
   <tr>
-    <td colspan="1">
+    <td>
 <pre>
 - My contributions to open source 
 have been steadily increasing, 
 with an active presence in 
 <b>pull requests, issues, and commits.</b> 
-<br>
+</pre>
+    </td>
+     <td>
+<pre>
 - Each contribution reflects 
 my dedication to improving and 
 refining the projects I engage with, 
 both through code and collaboration
 </pre>
     </td>
-    <td colspan="2">
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <a href="https://camo.githubusercontent.com/2086ee8e0e701400d319adee3b213691dda2e251d0ba95f18a7b075547453a7e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d687639302673686f775f69636f6e733d74727565267468656d653d7261646963616c26636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565">
-        <img style="background: red;" height="auto" width="580px" align="center" src="https://github-readme-stats.vercel.app/api?username=hv90&show_icons=true&theme=holi" />
+        <img height="auto" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=hv90&show_icons=true&theme=holi" />
       </a>
     </td>
   </tr>
-  <tr></tr>
   <tr>
     <td colspan="1">
   <pre>
@@ -57,7 +61,7 @@ front-end technologies.
   </tr>
   <tr></tr>
   <tr>
-    <td colspan="3" align="center">
+    <td colspan="2" align="center">
       <br>
       <b>Last 30 days</b>
       <img height="auto" width="auto" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hv90&theme=tokyo-night" />
