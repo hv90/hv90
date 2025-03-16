@@ -11,9 +11,9 @@ steadily increasing, with an active presence in
     </td>
      <td>
 <pre>
-- Each contribution reflects my dedication to improving 
-and refining the projects I engage with, both through 
-code and collaboration
+- Each contribution reflects my dedication to 
+improving and refining the projects I engage with, 
+both through code and collaboration
 </pre>
     </td>
   </tr>
@@ -29,14 +29,16 @@ code and collaboration
   <pre>
 - As a <b>Front-end Developer</b>, I work primarily 
 with <b>JavaScript</b>, where I’ve spent most of 
-my time developing using <b>React.js, Next.js, Shadcn UI, 
-Material UI, Stencil.js, Storybook and more</b>. 
+my time developing using <b>React.js, Next.js, 
+Shadcn UI, Material UI, Stencil.js, Storybook 
+and more</b>. 
 </pre>
     </td> 
     <td>
   <pre>
-- My experience is deeply rooted in building interactive 
-user interfaces and components for web applications. 
+- My experience is deeply rooted in building 
+interactive user interfaces and components 
+for web applications. 
 </pre>
     </td> 
   </tr>
@@ -52,8 +54,9 @@ visually appealing web solutions.
     </td> 
     <td>
 <pre>
-- While <b>Python</b> has appeared in some of my projects, 
-my expertise remains focused on front-end technologies.
+- While <b>Python</b> has appeared in some 
+of my projects, my expertise remains focused 
+on front-end technologies.
 </pre>
     </td> 
   </tr>
