@@ -27,7 +27,7 @@ both through code and collaboration
     </td>
   </tr>
   <tr>
-    <td colspan="1">
+    <td>
   <pre>
 - As a <b>Front-end Developer</b>, 
 I work primarily with <b>JavaScript</b>, 
@@ -35,31 +35,44 @@ where I’ve spent most of my time
 developing using 
 <b>React.js, Next.js, Shadcn UI, 
 Material UI, Stencil.js...</b>. 
-<br>
+</pre>
+    </td> 
+    <td>
+  <pre>
 - My experience is deeply rooted 
 in building interactive user interfaces 
 and components for web applications. 
-<br>
+</pre>
+    </td> 
+  </tr>
+  <tr></tr>
+  <tr>
+    <td>
+  <pre>
 - I’ve also worked with 
 <b>HTML, CSS, Tailwind CSS and TypeScript,</b>
 enhancing my ability to 
 craft efficient and visually appealing 
 web solutions. 
-<br>
+</pre>
+    </td> 
+    <td>
+<pre>
 - While <b>Python</b> has appeared 
 in some of my projects, 
 my expertise remains focused on 
 front-end technologies.
 </pre>
-    </td>
+    </td> 
+  </tr>
+  <tr>
     <td colspan="2">
       <a href="https://camo.githubusercontent.com/b8ed67b000a3eeec0cc1edd081fd942e10fdd113d63046ed92cb7313e3625de4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d68763930266c61796f75743d706965266c616e67735f636f756e743d36267468656d653d7261646963616c
 ">
-  <img height="auto" width="580px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hv90&layout=donut&langs_count=6&theme=holi" />
+  <img height="auto" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hv90&layout=donut&langs_count=6&theme=holi" />
       </a>
     </td>
   </tr>
-  <tr></tr>
   <tr>
     <td colspan="2" align="center">
       <br>
