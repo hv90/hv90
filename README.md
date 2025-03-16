@@ -34,7 +34,7 @@ I work primarily with <b>JavaScript</b>,
 where I’ve spent most of my time 
 developing using 
 <b>React.js, Next.js, Shadcn UI, 
-Material UI, Stencil.js...</b>. 
+Material UI, Stencil.js, Storybook and more</b>. 
 </pre>
     </td> 
     <td>
