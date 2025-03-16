@@ -17,7 +17,7 @@ both through code and collaboration
     </td>
     <td>
       <a href="https://camo.githubusercontent.com/2086ee8e0e701400d319adee3b213691dda2e251d0ba95f18a7b075547453a7e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d687639302673686f775f69636f6e733d74727565267468656d653d7261646963616c26636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565">
-        <img height="250px" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=hv90&show_icons=true&theme=holi" />
+        <img height="auto" width="580px" align="center" src="https://github-readme-stats.vercel.app/api?username=hv90&show_icons=true&theme=holi" />
       </a>
     </td>
   </tr>
@@ -51,7 +51,7 @@ front-end technologies.
     <td>
       <a href="https://camo.githubusercontent.com/b8ed67b000a3eeec0cc1edd081fd942e10fdd113d63046ed92cb7313e3625de4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d68763930266c61796f75743d706965266c616e67735f636f756e743d36267468656d653d7261646963616c
 ">
-  <img height="500px" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hv90&layout=donut&langs_count=6&theme=holi" />
+  <img height="auto" width="580px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hv90&layout=donut&langs_count=6&theme=holi" />
       </a>
     </td>
   </tr>
