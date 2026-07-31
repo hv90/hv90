@@ -27,11 +27,7 @@ both through code and collaboration
   <tr>
     <td>
   <pre>
-- As a <b>Front-end Developer</b>, I work primarily 
-with <b>JavaScript</b>, where I’ve spent most of 
-my time developing using <b>React.js, Next.js, 
-Shadcn UI, Material UI, Stencil.js, Storybook 
-and more</b>. 
+- As a full-stack developer, I work across the stack: React.js, Next.js, TypeScript, Material UI, Shadcn UI, Stencil.js and Storybook on the front end, and Python with FastAPI, SQLAlchemy and PostgreSQL on the back end.
 </pre>
     </td> 
     <td>
@@ -54,9 +50,7 @@ visually appealing web solutions.
     </td> 
     <td>
 <pre>
-- While <b>Python</b> has appeared in some 
-of my projects, my expertise remains focused 
-on front-end technologies.
+- At InvestSmart I build HubSmart end to end, owning features from the database and API through to the UI.
 </pre>
     </td> 
   </tr>
