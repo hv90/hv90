@@ -3,10 +3,17 @@
 **Full-stack software engineer.** I like owning features from database to UI, and learning in the open.
 
 ### 🧰 Tech
-[![skills](https://skillicons.dev/icons?i=ts,nestjs,prisma,postgres,python,fastapi,react,nextjs,mui,tailwind,storybook,docker,githubactions,vitest,jest,git)](https://skillicons.dev)
+**Frontend**
 
-### 📈 Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hv90&theme=tokyo-night" width="100%" />
+[![frontend](https://skillicons.dev/icons?i=ts,react,nextjs,mui,tailwind)](https://skillicons.dev)
+
+**Backend**
+
+[![backend](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,python,fastapi)](https://skillicons.dev)
+
+**Tools & testing**
+
+[![tools](https://skillicons.dev/icons?i=docker,githubactions,vitest,jest,git)](https://skillicons.dev)
 
 ### 🚀 Projects
 - **[digimon-tree](https://digimon-tree.netlify.app/)** — data tree visualizer with a visual + audio interface
