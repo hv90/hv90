@@ -5,15 +5,34 @@
 ### 🧰 Tech
 **Frontend**
 
-[![frontend](https://skillicons.dev/icons?i=ts,react,nextjs,mui,tailwind)](https://skillicons.dev)
+<p>
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=mui" alt="Material UI" title="Material UI" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />
+</p>
 
 **Backend**
 
-[![backend](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,python,fastapi)](https://skillicons.dev)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" title="NestJS" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" width="48" height="48" />
+</p>
 
 **Tools & testing**
 
-[![tools](https://skillicons.dev/icons?i=docker,githubactions,vitest,jest,git)](https://skillicons.dev)
+<p>
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" title="Vitest" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" height="48" />
+</p>
 
 ### 🚀 Projects
 - **[digimon-tree](https://digimon-tree.netlify.app/)** — data tree visualizer with a visual + audio interface
